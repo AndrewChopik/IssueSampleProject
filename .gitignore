@@ -1,0 +1,9 @@
+*.iml
+/local.properties
+.idea
+/build
+/captures
+.gradle
+app/build
+app/release
+cardstackview/build
